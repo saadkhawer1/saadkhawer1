@@ -117,6 +117,10 @@ I believe in:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadKhawer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35" width="96%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaadKhawer&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
+
 ### 📈 Contribution Summary
 
 | Metric | Value |
@@ -221,14 +225,15 @@ Classic arcade-style game built from scratch.
 
 ## 🏆 Achievements & Certifications
 
-
-- 📜 15+ Certifications (Google, Stanford, IBM, Microsoft)
+- 📜 17+ Certifications (Google, Stanford, IBM, Microsoft, DeepLearning.AI)
 - 🧪 Open-source contributor (sympy)
 
 ### 📜 Recent Certifications
 
 | Certificate | Issuer | Issued | Skills |
 |---|---|---|---|
+| 🎓 Advanced Learning Algorithms | DeepLearning.AI | Jul 2026 | Deep Learning, Machine Learning Algorithms |
+| 🎓 Supervised Machine Learning: Regression and Classification | DeepLearning.AI | Feb 2026 | Machine Learning Algorithms, Supervised Learning |
 | 🎓 Google AI for Research and Insights | Coursera | Jul 2026 | AI for Legal Research |
 | 🎓 AI for Research and Insights | Google | Jul 2026 | AI for Legal Research |
 | 🎓 Google AI for Brainstorming and Planning | Coursera | Jul 2026 | Artificial Intelligence (AI) |
@@ -271,6 +276,10 @@ Building AI systems that don't just predict — but **think, plan, and act intel
 - 🌍 Create impactful software products
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</p>
 
 <p align="center">
 🔥 Always building. Always learning. Always shipping. — Let's build the future together 🚀
