@@ -44,7 +44,7 @@ I believe in:
   <a href="https://www.instagram.com/SaadKhawer" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/SaadKhawer" target="_blank">
+  <a href="https://github.com/saadKhawer1" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -106,11 +106,11 @@ I believe in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaadKhawer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadKhawer&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadkhawer1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadKhawer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhawer1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="40%" />
 </p>
 
 <p align="center">
