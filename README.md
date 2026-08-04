@@ -132,33 +132,29 @@ principles:
 📜 **17+ Certifications** — Google, Stanford, IBM, Microsoft, DeepLearning.AI
 🧪 **Open-source contributor** — sympy
 
-<details>
-<summary><b>📜 View Recent Certifications</b></summary>
-<br/>
+### 📜 Recent Certifications
 
 | Certificate | Issuer | Issued | Skills |
 |---|---|---|---|
-| Advanced Learning Algorithms | DeepLearning.AI | Jul 2026 | Deep Learning, ML Algorithms |
-| Supervised Machine Learning: Regression and Classification | DeepLearning.AI | Feb 2026 | ML Algorithms, Supervised Learning |
-| Google AI for Research and Insights | Coursera | Jul 2026 | AI for Legal Research |
-| AI for Research and Insights | Google | Jul 2026 | AI for Legal Research |
-| Google AI for Brainstorming and Planning | Coursera | Jul 2026 | Artificial Intelligence (AI) |
-| AI for Brainstorming and Planning | Google | Jul 2026 | Artificial Intelligence (AI) |
-| Google AI Fundamentals | Google | Jul 2026 | Artificial Intelligence (AI) |
-| AI+ Fundamentals | Coursera | Jul 2026 | Artificial Intelligence (AI) |
-| Google AI Essentials V1 | Coursera | Jun 2026 | Artificial Intelligence (AI) |
-| Google AI Essentials | Google | Jun 2026 | Artificial Intelligence (AI) |
-| Use AI Responsibly | Google | Jun 2026 | Artificial Intelligence (AI) |
-| Discover the Art of Prompting | Google | Jun 2026 | Prompt Engineering |
-| Maximize Productivity With AI Tools | Google | Jun 2026 | AI, NLP |
-| Introduction to AI | Coursera | Jun 2026 | Artificial Intelligence (AI) |
-| Artificial Intelligence Foundations: Machine Learning | LinkedIn | Apr 2026 | AI, Machine Learning |
-| AI for Everyone | DeepLearning.AI | Oct 2025 | AI for Everyone, AI |
-| ChatGPT Prompt Engineering for Developers | DeepLearning.AI | Sep 2025 | Prompt Engineering |
-| AI for Beginner | HP LIFE | Jul 2025 | Artificial Intelligence (AI) |
-| Google Cloud Certified Professional Cloud Architect | Coursera | Jul 2025 | Generative AI |
-
-</details>
+| 🎓 Advanced Learning Algorithms | DeepLearning.AI | Jul 2026 | Deep Learning, Machine Learning Algorithms |
+| 🎓 Supervised Machine Learning: Regression and Classification | DeepLearning.AI | Feb 2026 | Machine Learning Algorithms, Supervised Learning |
+| 🎓 Google AI for Research and Insights | Coursera | Jul 2026 | AI for Legal Research |
+| 🎓 AI for Research and Insights | Google | Jul 2026 | AI for Legal Research |
+| 🎓 Google AI for Brainstorming and Planning | Coursera | Jul 2026 | Artificial Intelligence (AI) |
+| 🎓 AI for Brainstorming and Planning | Google | Jul 2026 | Artificial Intelligence (AI) |
+| 🎓 Google AI Fundamentals | Google | Jul 2026 | Artificial Intelligence (AI) |
+| 🎓 AI+ Fundamentals | Coursera | Jul 2026 | Artificial Intelligence (AI) |
+| 🎓 Google AI Essentials V1 | Coursera | Jun 2026 | Artificial Intelligence (AI) |
+| 🎓 Google AI Essentials | Google | Jun 2026 | Artificial Intelligence (AI) |
+| 🎓 Use AI Responsibly | Google | Jun 2026 | Artificial Intelligence (AI) |
+| 🎓 Discover the Art of Prompting | Google | Jun 2026 | Prompt Engineering |
+| 🎓 Maximize Productivity With AI Tools | Google | Jun 2026 | Artificial Intelligence (AI), Natural Language Processing (NLP) |
+| 🎓 Introduction to AI | Coursera | Jun 2026 | Artificial Intelligence (AI) |
+| 🎓 Artificial Intelligence Foundations: Machine Learning | LinkedIn | Apr 2026 | Artificial Intelligence (AI), Machine Learning |
+| 🎓 AI for Everyone | DeepLearning.AI | Oct 2025 | AI for Everyone, Artificial Intelligence (AI) |
+| 🎓 ChatGPT Prompt Engineering for Developers | DeepLearning.AI | Sep 2025 | Prompt Engineering |
+| 🎓 AI for Beginner | HP LIFE | Jul 2025 | Artificial Intelligence (AI) |
+| 🎓 Google Cloud Certified Professional Cloud Architect | Coursera | Jul 2025 | Generative AI |
 
 <br/>
 
