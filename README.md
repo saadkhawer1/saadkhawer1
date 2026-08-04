@@ -105,7 +105,7 @@ I believe in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadKhawer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadkhawer1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadkhawer1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" width="48%" />
 </p>
 
