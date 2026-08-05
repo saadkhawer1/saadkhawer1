@@ -90,6 +90,7 @@ principles:
 ![NLP](https://img.shields.io/badge/NLP-3498DB?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/Large%20Language%20Models-6C3483?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-1ABC9C?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-D35400?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F39C12?style=for-the-badge)
 ![Responsible AI](https://img.shields.io/badge/Responsible%20AI-27AE60?style=for-the-badge)
 <br/>
@@ -129,13 +130,19 @@ principles:
 
 ## 🏆 Achievements & Certifications
 
-📜 **17+ Certifications** — Google, Stanford, IBM, Microsoft, DeepLearning.AI
+📜 **23+ Certifications** — Google, Stanford, IBM, Microsoft, DeepLearning.AI, Oracle, NVIDIA, AWS
 🧪 **Open-source contributor** — sympy
 
 ### 📜 Recent Certifications
 
 | Certificate | Issuer | Issued | Skills |
 |---|---|---|---|
+| 🎓 Oracle Cloud Infrastructure Generative AI Professional | Coursera | Aug 2026 | Agentic Automation, Generative AI |
+| 🎓 Agentic AI Certified Foundation Associate | Oracle | Aug 2026 | Agentic AI Development, Generative AI |
+| 🎓 AWS Knowledge: Amazon Q Developer Fundamentals — Training Badge | Amazon Web Services (AWS) | Aug 2026 | Developer Knowledge, Prompt Engineering |
+| 🎓 Oracle Cloud Infrastructure AI Foundations | Oracle | Jul 2026 | Artificial Intelligence (AI), Deep Learning |
+| 🎓 Oracle Certified Foundation Associate | Oracle | Jul 2026 | Deep Learning, Machine Learning Algorithms |
+| 🎓 NVIDIA: Fundamentals of Machine Learning | Whizlabs | Jul 2026 | Machine Learning Algorithms, Supervised Learning |
 | 🎓 Advanced Learning Algorithms | DeepLearning.AI | Jul 2026 | Deep Learning, Machine Learning Algorithms |
 | 🎓 Supervised Machine Learning: Regression and Classification | DeepLearning.AI | Feb 2026 | Machine Learning Algorithms, Supervised Learning |
 | 🎓 Google AI for Research and Insights | Coursera | Jul 2026 | AI for Legal Research |
@@ -155,6 +162,37 @@ principles:
 | 🎓 ChatGPT Prompt Engineering for Developers | DeepLearning.AI | Sep 2025 | Prompt Engineering |
 | 🎓 AI for Beginner | HP LIFE | Jul 2025 | Artificial Intelligence (AI) |
 | 🎓 Google Cloud Certified Professional Cloud Architect | Coursera | Jul 2025 | Generative AI |
+
+<br/>
+
+## 🥇 Featured Badges
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<b>Agentic AI Certified Foundation Associate</b><br/>
+<sub>Oracle University</sub><br/>
+<img src="https://img.shields.io/badge/Oracle-Agentic%20AI%20Certified-C74634?style=for-the-badge&logo=oracle&logoColor=white" /><br/>
+<sub>Foundations in Agentic AI & intelligent systems</sub>
+</td>
+<td align="center" width="33%">
+<b>Oracle Cloud Infrastructure Generative AI Professional</b><br/>
+<sub>Oracle University</sub><br/>
+<img src="https://img.shields.io/badge/OCI-Generative%20AI%20Professional-C74634?style=for-the-badge&logo=oracle&logoColor=white" /><br/>
+<sub>Validated understanding of OCI & Generative AI best practices</sub>
+</td>
+<td align="center" width="33%">
+<b>AWS Knowledge: Amazon Q Developer Fundamentals</b><br/>
+<sub>Credly</sub><br/>
+<img src="https://img.shields.io/badge/AWS-Amazon%20Q%20Trained-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
+<sub>AWS Cloud fundamentals, core services & security</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
