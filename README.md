@@ -37,13 +37,13 @@ principles:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SaadKhawer" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-saad-53b015336/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:saadspam39@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/SaadKhawer" target="_blank">
+<a href="https://www.instagram.com/maestrodesaad" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://github.com/saadKhawer1" target="_blank">
